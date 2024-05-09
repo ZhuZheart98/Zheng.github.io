@@ -1,17 +1,16 @@
-title: An Exhibition of A Hunger Artist #Your awesome title
-email: annabellee123456@outlook.com
+title: A web for Zheng #Your awesome title
+email: zhuz113@163.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Explore "A web for Zheng", a personal showcase of Zheng's projects, insights, and professional journey. Dive into a collection of thoughtful articles, engaging resources, and creative endeavors that reflect Zheng's expertise and passions in technology and beyond. This site serves as a central hub for sharing knowledge, connecting with peers, and exploring new ideas.
+
 
 baseurl:  # the subpath of the site
-url: https://github.com/EinHungerkuenstler/EinHungerkuenstler.github.io # the base hostname & protocol for your site
+url: https://github.com/ZhuZheart98/zhuzheart98.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone: GMT+1
+timezone: GMT+8
 
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/IMG_20200519_002253.jpg
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
