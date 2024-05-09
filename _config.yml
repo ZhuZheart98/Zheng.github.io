@@ -18,11 +18,11 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Zheng Zhu
+  name: 朱政
   pic: /assets/img/IMG_20200519_002253.jpg
   picAlt: "Web for Zheng"
   job: 千里之行，始于足下
-  # aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
