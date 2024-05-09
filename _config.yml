@@ -12,16 +12,16 @@ timezone: GMT+8
 
 favicon: /assets/img/IMG_20200519_002253.jpg
 
-google_analytics: #G-0NN4T3CQ28
-disqus_shortname: #disqus shortname
+google_analytics: G-0NN4T3CQ28
+disqus_shortname: #disqus shortname   #用于在你的网站中集成 Disqus 评论系统
 cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: WHY
-  pic: /assets/img/profile.jpg
-  picAlt: "An Exhibition of A Hunger Artist"
-  job: Muss es sein? Es muss sein!
+  name: Zheng Zhu
+  pic: /assets/img/IMG_20200519_002253.jpg
+  picAlt: "Web for Zheng"
+  job: 千里之行，始于足下
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
