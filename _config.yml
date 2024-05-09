@@ -1,4 +1,4 @@
-title: A web for Zheng #Your awesome title
+title: Web for Zheng #Your awesome title
 email: zhuz113@163.com
 description: > # this means to ignore newlines until "baseurl"
   Explore "A web for Zheng", a personal showcase of Zheng's projects, insights, and professional journey. Dive into a collection of thoughtful articles, engaging resources, and creative endeavors that reflect Zheng's expertise and passions in technology and beyond. This site serves as a central hub for sharing knowledge, connecting with peers, and exploring new ideas.
@@ -12,7 +12,7 @@ timezone: GMT+8
 
 favicon: /assets/img/IMG_20200519_002253.jpg
 
-google_analytics: #UA—XXXXXXXX-X
+google_analytics: #G-0NN4T3CQ28
 disqus_shortname: #disqus shortname
 cusdis:
     app_id: #your cusdis app_id
